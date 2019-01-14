@@ -14,4 +14,4 @@ Credits for efx sounds from SoundBible.com
 
 [Space Invaders sounds](http://samples.mameworld.info/Unofficial%20Samples.htm)
 
-こんにちは さようなら
+こんにちは さようなら 20190114記
