@@ -4,7 +4,7 @@ from pygame.time import get_ticks
 
 WIDTH = 480
 HEIGHT = 600
-TITLE = '---=== 宣伝：吉田製作所(Youtube Channel)は、面白いです -' #'---=== SPACE INVADERS ===---'
+TITLE = '---=== This is Space Invaders -' #'---=== SPACE INVADERS ===---'
 PADDING = 40
 
 CANNON_SPEED = 5
